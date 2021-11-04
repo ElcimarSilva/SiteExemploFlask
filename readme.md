@@ -12,3 +12,5 @@ Requisitos
 
 No pycharm precisa vincular o ambiente virtual
 -Settings>Project>Interpreter
+
+Video também mostra processo de deploy no Heroku

@@ -19,4 +19,3 @@ def usuarios(nome_usuario):
 
 if __name__ == "__main__": # Executa o codigo somente se o arquivo que foi executado for o main
     app.run(debug=True)  # Executa o site
-#
